@@ -1,0 +1,1 @@
+"""Local workshop RAG package."""
